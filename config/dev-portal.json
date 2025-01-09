@@ -1,0 +1,15 @@
+{
+  "$schema": "https://cdn.zuplo.com/schemas/dev-portal.json",
+  "enabled": true,
+  "enableAuthentication": true,
+  "monetization": {
+    "provider": "stripe"
+  },
+  "authentication": {
+    "provider": "auth0",
+    "issuer": "dev-hqbkp46fhvwbpk6z.us.auth0.com",
+    "clientId": "dyEdfOAyX7jmiIqxfU18GRiCRjwhA6hk",
+    "audience": "https://optimiciti-main-d068c98.d2.zuplo.dev"
+  },
+  "enableMonetization": false
+}
